@@ -12,4 +12,4 @@
 
 ### Learn about `react-router-dom` in the project `06reactrouter`.Go ahead and learn more about react-router-dom from [Visit React Router](https://reactrouter.com/en/main)
 
-##### In the Above project we have also learnt preloading of data using `useLoaderData` hook provided by `react-router-dom` and utilising `loader property` of `<Route loade={functionNameFetchingAndReturningData} `
+#### In the Above project we have also learnt preloading of data using `useLoaderData` hook provided by `react-router-dom` and utilising `loader property` of `<Route loade={functionNameFetchingAndReturningData} `
