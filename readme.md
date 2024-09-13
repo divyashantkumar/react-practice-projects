@@ -17,4 +17,4 @@
 
 ### In the project `07ReactContextAPI` I have learnt about `useContext` Hook, How to create context, How to use the context etc. Go Ahead Learn more about Context API
 
-### In Project `08themeswitcher`  have llearnt to use Context API in Dither way.
+### In Project `08themeswitcher`  have learnt to use Context API in Different way.
